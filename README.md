@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Hercules there 👾🤖👽
+## Hi, I'm Hercules a studant of Systems and Development
+### Languagens and technologies
 
-<!--
-**herculescarneiro1313/herculescarneiro1313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
 
-Here are some ideas to get you started:
+<img 
+    aling="left"
+    title="html"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+/>
+
+</p>
+
+
+
+            
+
+
+
