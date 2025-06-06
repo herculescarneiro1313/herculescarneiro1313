@@ -6,6 +6,7 @@
 
 <img 
         aling="left" 
+        alt="HTML"
         title="html" 
         width="30px" 
         style="padding-right: 10px;"
