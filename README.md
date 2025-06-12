@@ -13,19 +13,6 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
           
 
-<img 
-    aling="left" 
-    title="html" 
-    width="30px" 
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />        
-
-<img 
-    aling="left" 
-    title="html" 
-    width="30px" 
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
 </p>
 ### Estatistica do profissional
 <p>
